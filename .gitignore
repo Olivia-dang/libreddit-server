@@ -6,3 +6,6 @@ node_modules
 
 # compiled JS
 dist
+
+# yarn
+yarn-error.log
